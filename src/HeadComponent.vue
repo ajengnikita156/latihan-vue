@@ -5,14 +5,14 @@
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">YOUR KITCHEN EQUIPMENT</h1>
         <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Menyediakan Berbagai Macam Alat-alat dan Kebutuhan Dapur Anda</p>
         <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
-            <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+            <a href="./src/Login.vue" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
                 Mulai Sekarang
                 
                 <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                 </svg>
             </a>
-            <a href="#" class="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+            <a href="./src/Modul.vue" class="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
                 Selengkapnya
             </a>  
         </div>
@@ -20,7 +20,37 @@
 </section>
 
 
-<div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+
+
+<div class="container mx-auto">
+<div class="grid gap-4">
+    <div>
+        <img class="h-auto max-w-full rounded-lg" style="margin: 10px;" src="https://shipper.id/_next/image?url=%2Fblog%2Fwp-content%2Fuploads%2F2021%2F08%2Fjason-briscoe-GliaHAJ3_5A-unsplash-min-scaled.jpg&w=3840&q=75" alt="">
+    </div>
+    <div class="grid grid-cols-5 gap-4">
+        <div>
+            <img class="h-auto max-w-full rounded-lg" style="margin: 10px;" src="https://i.pinimg.com/736x/e9/e6/eb/e9e6eb19212126e23bfad852551bb4cb.jpg" alt="">
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="https://cf.shopee.co.id/file/19b71b3720f35f62cbfd7d2e7d541753" alt="">
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="https://i.pinimg.com/736x/c2/cc/a3/c2cca3d8d8a8b25d740ae8f99fae4b11.jpg" alt="">
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" alt="">
+        </div>
+        <div>
+            <img class="h-auto max-w-full rounded-lg" src="https://i.pinimg.com/736x/e9/e6/eb/e9e6eb19212126e23bfad852551bb4cb.jpg" alt="">
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+<!-- <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
     
     <div class="grid gap-4" >
         <div>
@@ -35,24 +65,24 @@
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://i.pinimg.com/736x/e9/e6/eb/e9e6eb19212126e23bfad852551bb4cb.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://i.pinimg.com/736x/e9/e6/eb/e9e6eb19212126e23bfad852551bb4cb.jpg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://indotimes.net/wp-content/uploads/2023/03/image-101-1024x1024.png.webp" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://indotimes.net/wp-content/uploads/2023/03/image-101-1024x1024.png.webp" alt="">
         </div>
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://cf.shopee.co.id/file/19b71b3720f35f62cbfd7d2e7d541753" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://cf.shopee.co.id/file/19b71b3720f35f62cbfd7d2e7d541753" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbdLLRv7x7zwIelrDNS5t70CMBZgxUVqUFQ&usqp=CAU" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbdLLRv7x7zwIelrDNS5t70CMBZgxUVqUFQ&usqp=CAU" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//106/MTA-8735875/oem_peralatan_dapur_hiasan_dekorasi_rumah_teko_teapot_bercorak_keramik_aesthetic_d51_full01_k0jc0jmd.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//106/MTA-8735875/oem_peralatan_dapur_hiasan_dekorasi_rumah_teko_teapot_bercorak_keramik_aesthetic_d51_full01_k0jc0jmd.jpg" alt="">
         </div>
     </div>
     <div class="grid gap-4">
@@ -67,7 +97,7 @@
         </div>
     </div>
 </div>
-
+ -->
 
 <div style="margin: 10px ;" class="w-full p-4 text-center bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
             <h5 class="mb-2 text-3xl font-bold text-gray-900 dark:text-white">Kitchen Equipment</h5>
@@ -98,7 +128,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
     <center>
     <a href="#">
         
-        <img class="p-8 rounded-t-lg" src="https://indotimes.net/wp-content/uploads/2023/03/image-101-1024x1024.png.webp" alt="product image" />
+        <img class="p-8 rounded-t-lg" style=" margin: 10px" src="https://indotimes.net/wp-content/uploads/2023/03/image-101-1024x1024.png.webp" alt="product image" />
     
     </a></center>
 
@@ -138,7 +168,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
 <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <center>
     <a href="#">
-        <img class="p-8 rounded-t-lg" src="https://i.pinimg.com/736x/e9/e6/eb/e9e6eb19212126e23bfad852551bb4cb.jpg" alt="product image" />
+        <img class="p-8 rounded-t-lg" style=" margin: 10px" src="https://i.pinimg.com/736x/e9/e6/eb/e9e6eb19212126e23bfad852551bb4cb.jpg" alt="product image" />
     </a></center>
     <div class="px-5 pb-5">
         <a href="#">
@@ -174,7 +204,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
     <center>
     <a href="#">
         
-        <img class="p-8 rounded-t-lg" src="https://i.pinimg.com/1200x/64/b2/a8/64b2a8a935e92ce837d6a25cea3b6e0e.jpg" alt="product image" />
+        <img class="p-8 rounded-t-lg" style=" margin: 10px" src="https://i.pinimg.com/1200x/64/b2/a8/64b2a8a935e92ce837d6a25cea3b6e0e.jpg" alt="product image" />
     
     </a></center>
 
@@ -222,7 +252,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
     <center>
     <a href="#">
         
-        <img class="p-8 rounded-t-lg" src="https://media.karousell.com/media/photos/products/2022/6/13/alat_masak_peralatan_dapur_ala_1655112181_1ac77117_progressive.jpg" alt="product image" />
+        <img class="p-8 rounded-t-lg" style=" margin: 10px" src="https://media.karousell.com/media/photos/products/2022/6/13/alat_masak_peralatan_dapur_ala_1655112181_1ac77117_progressive.jpg" alt="product image" />
     
     </a></center>
 
@@ -259,7 +289,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
 <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <center>
     <a href="#">
-        <img class="p-8 rounded-t-lg" src="https://down-id.img.susercontent.com/file/cf88d6a4b24fadf83829aa94e1e86a82" alt="product image" />
+        <img class="p-8 rounded-t-lg" style=" margin: 10px" src="https://down-id.img.susercontent.com/file/cf88d6a4b24fadf83829aa94e1e86a82" alt="product image" />
     </a></center>
     <div class="px-5 pb-5">
         <a href="#">
@@ -295,7 +325,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
     <center>
     <a href="#">
         
-        <img class="p-8 rounded-t-lg" src="https://img.id.my-best.com/item_part_images/a297896cf0bdf99814ce62963ab70a01.png?ixlib=rails-4.3.1&q=70&lossless=0&w=940&h=940&fit=fill&fill-color=FFFFFF&s=6c1394db92713b14d357361697ea291b" alt="product image" />
+        <img class="p-8 rounded-t-lg" style=" margin: 10px" src="https://img.id.my-best.com/item_part_images/a297896cf0bdf99814ce62963ab70a01.png?ixlib=rails-4.3.1&q=70&lossless=0&w=940&h=940&fit=fill&fill-color=FFFFFF&s=6c1394db92713b14d357361697ea291b" alt="product image" />
     
     </a></center>
 
