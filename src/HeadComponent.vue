@@ -1,6 +1,6 @@
 <template>
    
-    <section style=" margin: 10px" class="bg-center bg-no-repeat bg-[url('https://events.rumah123.com/news-content/img/2021/07/15212332/Peralatan-Dapur-Lengkap-freepik11.jpg')] bg-gray-700 bg-blend-multiply">
+    <section style=" margin: 10px" class="bg-center bg-no-repeat bg-[url('https://shipper.id/_next/image?url=%2Fblog%2Fwp-content%2Fuploads%2F2021%2F08%2Fjason-briscoe-GliaHAJ3_5A-unsplash-min-scaled.jpg&w=3840&q=75')] bg-gray-700 bg-blend-multiply">
     <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">YOUR KITCHEN EQUIPMENT</h1>
         <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Menyediakan Berbagai Macam Alat-alat dan Kebutuhan Dapur Anda</p>
