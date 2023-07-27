@@ -1,5 +1,6 @@
 <template>
-    <section class="bg-center bg-no-repeat bg-[url('https://events.rumah123.com/news-content/img/2021/07/15212332/Peralatan-Dapur-Lengkap-freepik11.jpg')] bg-gray-700 bg-blend-multiply">
+   
+    <section style=" margin: 10px" class="bg-center bg-no-repeat bg-[url('https://events.rumah123.com/news-content/img/2021/07/15212332/Peralatan-Dapur-Lengkap-freepik11.jpg')] bg-gray-700 bg-blend-multiply">
     <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">YOUR KITCHEN EQUIPMENT</h1>
         <p class="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Menyediakan Berbagai Macam Alat-alat dan Kebutuhan Dapur Anda</p>
@@ -20,15 +21,16 @@
 
 
 <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-    <div class="grid gap-4">
+    
+    <div class="grid gap-4" >
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://events.rumah123.com/news-content/img/2020/08/22111408/Screenshot_423.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://events.rumah123.com/news-content/img/2020/08/22111408/Screenshot_423.jpg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://www.ruparupa.com/blog/wp-content/uploads/2022/08/Krischef-2.4-Ltr-Teko-Air-Hijau.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://www.ruparupa.com/blog/wp-content/uploads/2022/08/Krischef-2.4-Ltr-Teko-Air-Hijau.jpg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://i.pinimg.com/736x/c2/cc/a3/c2cca3d8d8a8b25d740ae8f99fae4b11.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin: 10px" src="https://i.pinimg.com/736x/c2/cc/a3/c2cca3d8d8a8b25d740ae8f99fae4b11.jpg" alt="">
         </div>
     </div>
     <div class="grid gap-4">
@@ -55,18 +57,19 @@
     </div>
     <div class="grid gap-4">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://img.id.my-best.com/item_part_images/a297896cf0bdf99814ce62963ab70a01.png?ixlib=rails-4.3.1&q=70&lossless=0&w=940&h=940&fit=fill&fill-color=FFFFFF&s=6c1394db92713b14d357361697ea291b" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin-left: 10px;" src="https://img.id.my-best.com/item_part_images/a297896cf0bdf99814ce62963ab70a01.png?ixlib=rails-4.3.1&q=70&lossless=0&w=940&h=940&fit=fill&fill-color=FFFFFF&s=6c1394db92713b14d357361697ea291b" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://indotimes.net/wp-content/uploads/2023/03/image-104-1024x1024.png.webp" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin-left: 10px;" src="https://indotimes.net/wp-content/uploads/2023/03/image-104-1024x1024.png.webp" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="https://img.id.my-best.com/item_part_images/9a69987463654cc799fc8d19804ab37d.png?ixlib=rails-4.3.1&q=70&lossless=0&w=940&h=940&fit=fill&fill-color=FFFFFF&s=50bff7650119d7f78fbe9963d7eb7722" alt="">
+            <img class="h-auto max-w-full rounded-lg" style=" margin-left: 10px;" src="https://img.id.my-best.com/item_part_images/9a69987463654cc799fc8d19804ab37d.png?ixlib=rails-4.3.1&q=70&lossless=0&w=940&h=940&fit=fill&fill-color=FFFFFF&s=50bff7650119d7f78fbe9963d7eb7722" alt="">
         </div>
     </div>
 </div>
 
-<div class="w-full p-4 text-center bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
+
+<div style="margin: 10px ;" class="w-full p-4 text-center bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
             <h5 class="mb-2 text-3xl font-bold text-gray-900 dark:text-white">Kitchen Equipment</h5>
             <p class="mb-5 text-base text-gray-500 sm:text-lg dark:text-gray-400">Kitchen equipment atau perlengkapan dapur adalah peralatan besar yang membuat ruangan tersebut berfungsi sebagai dapur untuk mengolah makanan seperti oven, kompor, dan sebagainya. Dapur adalah tempat dari segala kebutuhan konsumsi Anda berasal. Bayangkan jika dapur Anda tidak nyaman, kegiatan memasak pasti akan terasa membosankan dan tidak ada semangat. Padahal memasak makanan sendiri adalah salah satu kebiasaan terbaik yang bisa Anda lakukan untuk diri Anda dan juga keluarga Anda sendiri.
 Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama – lama berada di tempat tersebut. Memasak menjadi kegiatan yang hanya sekedar ala kadarnya saja. Tidak ada rasa antusiasme yang muncul untuk berkreativitas dalam menciptakan makanan Anda sendiri.
@@ -80,8 +83,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
                 
             </div>
         </div>
-        
-
+    
 
 
 
@@ -127,7 +129,7 @@ Jika sebuah dapur tidak nyaman, kemungkinannya adalah tidak ada yang mau berlama
         </div>
         <div class="flex items-center justify-between">
             <span class="text-3xl font-bold text-gray-900 dark:text-white">Rp.25.000</span>
-            <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Keranjang</a>
         </div>
     </div>
     </div>

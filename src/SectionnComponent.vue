@@ -1,7 +1,7 @@
 <template>
     <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
-    <div>
-        <img class="h-auto max-w-full rounded-lg" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/best-seller-logo-transparent-design-template-5a04172756c441f4cead90f5611fd30e_screen.jpg?ts=1612178669" alt="">
+        <div class="container mx-auto">
+        <img class="h-auto max-w-full rounded-lg"  style="margin: 10px ;" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/best-seller-logo-transparent-design-template-5a04172756c441f4cead90f5611fd30e_screen.jpg?ts=1612178669" alt="">
     </div>
     <div>
         <img class="h-auto max-w-full rounded-lg" src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/best-seller-logo-transparent-design-template-5a04172756c441f4cead90f5611fd30e_screen.jpg?ts=1612178669" alt="">
@@ -23,7 +23,7 @@
         <div class="mt-3 sm:pr-8">
             <center><h3 class="text-lg font-semibold text-gray-900 dark:text-white">KITCHEN EQUIPMENT</h3></center>
             <div>
-            <center><v-img class="h-auto max-w-full rounded-lg" src="https://indotimes.net/wp-content/uploads/2023/03/image-101-1024x1024.png.webp" alt=""></v-img></center>
+            <center><v-img class="h-auto max-w-full rounded-lg" style="margin: 10px ;" src="https://indotimes.net/wp-content/uploads/2023/03/image-101-1024x1024.png.webp" alt=""></v-img></center>
         </div>
     <center><p class="text-base font-normal text-gray-500 dark:text-gray-400">Produk BEST SELLER yang diminati dan dibutuhkan banyak orang</p></center>
         </div>

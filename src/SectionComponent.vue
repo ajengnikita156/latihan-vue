@@ -1,12 +1,13 @@
 <template>
     
+    <div class = "container mx-auto">
 
 <div class="p-5 border border-gray-100 rounded-lg bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
-    <time class="text-lg font-semibold text-gray-900 dark:text-white">JANUARI 2023</time>
+    <time style="margin: 10px ;" class="text-lg font-semibold text-gray-900 dark:text-white">JANUARI 2023</time>
     <ol class="mt-3 divide-y divider-gray-200 dark:divide-gray-700">
         <li>
             <a href="#" class="items-center block p-3 sm:flex hover:bg-gray-100 dark:hover:bg-gray-700">
-                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Laura Romeros image"/>
+                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" style="margin: 10px ;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Laura Romeros image"/>
                 <div class="text-gray-600 dark:text-gray-400">
                     <div class="text-base font-normal"><span class="font-medium text-gray-900 dark:text-white">Laura Romeros</span> <span class="font-medium text-gray-900 dark:text-white"></span> Mengomentari barang yang tertera diatas <span class="font-medium text-gray-900 dark:text-white"> </span></div>
                     <div class="text-sm font-normal">"sangat bagus barang nya sesuai"</div>
@@ -23,7 +24,7 @@
         </li>
         <li>
             <a href="#" class="items-center block p-3 sm:flex hover:bg-gray-100 dark:hover:bg-gray-700">
-                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Mike Willi image"/>
+                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" style="margin: 10px ;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Mike Willi image"/>
                 <div>
                     <div class="text-base font-normal text-gray-600 dark:text-gray-400"><span class="font-medium text-gray-900 dark:text-white">Mike Willi</span>  Bereaksi <span class="font-medium text-gray-900 dark:text-white"></span> Menyukai produk kamu</div>
                     <span class="inline-flex items-center text-xs font-normal text-gray-500 dark:text-gray-400">
@@ -37,7 +38,7 @@
         </li>
         <li>
             <a href="#" class="items-center block p-3 sm:flex hover:bg-gray-100 dark:hover:bg-gray-700">
-                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Jese Leos image"/>
+                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" style="margin: 10px ;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Jese Leos image"/>
                 <div class="text-gray-600 dark:text-gray-400">
                     <div class="text-base font-normal"><span class="font-medium text-gray-900 dark:text-white">Jese Leos</span>  <span class="font-medium text-gray-900 dark:text-white"></span> Mengomentari barang yang tertera diatas <span class="font-medium text-gray-900 dark:text-white"> </span></div>
                     <div class="text-sm font-normal">"sangat bagus barang nya sesuai"</div>
@@ -52,7 +53,7 @@
         </li>
         <li>
             <a href="#" class="items-center block p-3 sm:flex hover:bg-gray-100 dark:hover:bg-gray-700">
-                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Bonnie Green image"/>
+                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" style="margin: 10px ;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Bonnie Green image"/>
                 <div class="text-gray-600 dark:text-gray-400">
                     <div class="text-base font-normal"><span class="font-medium text-gray-900 dark:text-white">Bonnie Green</span>  <span class="font-medium text-gray-900 dark:text-white"></span> bereaksi menyukai produk kamu<span class="font-medium text-gray-900 dark:text-white"> </span></div>
                     <div class="text-sm font-normal">"sangat bagus barang nya sesuai"</div>
@@ -69,7 +70,7 @@
         </li>
         <li>
             <a href="#" class="items-center block p-3 sm:flex hover:bg-gray-100 dark:hover:bg-gray-700">
-                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Bonnie Green image"/>
+                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" style="margin: 10px ;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Bonnie Green image"/>
                 <div class="text-gray-600 dark:text-gray-400">
                     <div class="text-base font-normal"><span class="font-medium text-gray-900 dark:text-white">Flower Green</span>  <span class="font-medium text-gray-900 dark:text-white"></span> Mengomentari barang yang tertera diatas <span class="font-medium text-gray-900 dark:text-white"> </span></div>
                     <div class="text-sm font-normal">"sangat bagus barang nya sesuai."</div>
@@ -86,7 +87,7 @@
         </li>
         <li>
             <a href="#" class="items-center block p-3 sm:flex hover:bg-gray-100 dark:hover:bg-gray-700">
-                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Bonnie Green image"/>
+                <img class="w-12 h-12 mb-3 mr-3 rounded-full sm:mb-0" style="margin: 10px ;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxIEZb7Lp_V-yrCPFNJBVXFlasJav3-yhzEAdCryWSVOm25xEKDyrhQ6NbJtv3hnZCMk&usqp=CAU" alt="Bonnie Green image"/>
                 <div class="text-gray-600 dark:text-gray-400">
                     <div class="text-base font-normal"><span class="font-medium text-gray-900 dark:text-white">Bonnie Buyti</span> <span class="font-medium text-gray-900 dark:text-white"></span> bereaksi menyukai produk kamu <span class="font-medium text-gray-900 dark:text-white"> </span></div>
                     <div class="text-sm font-normal">"sangat bagus barang nya sesuai"</div>
@@ -101,9 +102,10 @@
                 </div>
             </a>
         </li>
-        
+    
         
     </ol>
+</div>
 </div>
 
 </template>

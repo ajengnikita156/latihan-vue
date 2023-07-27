@@ -4,7 +4,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink ,Button} from 'flowbite-
 <template>
     <Navbar>
       <template #logo>
-        <NavbarLogo link="https://www.google.com/" alt="Flowbite logo" image-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pC1DOfD6H-HQkW94e7SDOO2u8AjRVxt8LQ&usqp=CAU">
+        <NavbarLogo link="https://www.google.com/" alt="Flowbite logo" style="margin: 10px ;" image-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pC1DOfD6H-HQkW94e7SDOO2u8AjRVxt8LQ&usqp=CAU">
           Kitchen Equipment
         </NavbarLogo>
       </template>
